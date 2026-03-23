@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset=3D"UTF-8">
+<title>Invoice Receipt</title>
+</head>
+<body style=3D"margin:0; padding:0; background-color:#f4f6f8; font-family: =
+Arial, Helvetica, sans-serif;">
+ 
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#f4f6f=
+8">
+<tr>
+<td align=3D"center" style=3D"padding:40px 15px;">
+ 
+<table width=3D"650" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#ffffff=
+" style=3D"border-radius:8px; overflow:hidden; box-shadow:0 4px 10px rgba(0=
+,0,0,0.05);">
+ 
+ 
+<tr>
+<td style=3D"background-color:#1a73e8; padding:42px 54px; color:#ffffff;">
+<div style=3D"display:flex">
+  <h2 style=3D"margin:0;">phishing
+<h2 style=3D"margin:0;">link
+<h2 style=3D"margin:0;">.com
+</div>
+  <p style=3D"margin:5px 0 0 0; font-size:14px;">Invoice / Payment Receipt<=
+/p>
+</td>
+</tr>
+ 
+ 
+<tr>
+<td style=3D"padding:40px; color:#333333; font-size:15px; line-height:1.6;"=
+>
+ 
+<p>Hello Customer,</p>
+ 
+<p>Thank you for your business. This email confirms that we have received y=
+our payment successfully.</p>
+ 
+ 
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D"margin:2=
+5px 0; border-collapse:collapse;">
+<tr>
+<td style=3D"padding:8px 0;">*Invoice Number:*</td>
+<td align=3D"right">9283335-2422</td>
+</tr>
+<tr>
+<td style=3D"padding:8px 0;">*Transaction ID:*</td>
+<td align=3D"right">1837-JF-5357</td>
+</tr>
+<tr>
+<td style=3D"padding:8px 0;">*Invoice Date:*</td>
+<td align=3D"right">2026-03-05</td>
+</tr>
+<tr>
+<td style=3D"padding:8px 0;">*Payment Method:*</td>
+<td align=3D"right">PayPal Business Account</td>
+</tr>
+</table>
+ 
+ 
+<table width=3D"100%" cellpadding=3D"10" cellspacing=3D"0" style=3D"border-=
+collapse:collapse; border:1px solid #e0e0e0;">
+<tr bgcolor=3D"#f9fafb">
+  <th align=3D"left" style=3D"border-bottom:1px solid #e0e0e0;">Description=
+</th>
+  <th align=3D"center" style=3D"border-bottom:1px solid #e0e0e0;">Qty</th>
+  <th align=3D"right" style=3D"border-bottom:1px solid #e0e0e0;">Price</th>
+  <th align=3D"right" style=3D"border-bottom:1px solid #e0e0e0;">Total</th>
+</tr>
+ 
+<tr>
+  <td>Premium Tuneup Antivirus</td>
+  <td align=3D"center">1</td>
+  <td align=3D"right">427.85</td>
+  <td align=3D"right">427.85</td>
+</tr>
+ 
+<tr>
+  <td colspan=3D"3" align=3D"right" style=3D"border-top:1px solid #e0e0e0;"=
+>*Subtotal*</td>
+  <td align=3D"right" style=3D"border-top:1px solid #e0e0e0;">427.85</td>
+</tr>
+ 
+<tr>
+  <td colspan=3D"3" align=3D"right">*Tax*</td>
+  <td align=3D"right">0.00</td>
+</tr>
+ 
+<tr>
+  <td colspan=3D"3" align=3D"right" style=3D"font-size:16px;">*Total=
+ Paid*</td>
+  <td align=3D"right" style=3D"font-size:16px;">*427.85*</td=
+>
+</tr>
+</table>
+ 
+<p style=3D"margin-top:30px;">
+If you have any questions about this invoice, please contact us at=20
+(805)-880-2309
+</p>
+ 
+<p>
+Thank you for choosing PayPal,LLC.
+</p>
+ 
+</td>
+</tr>
+ 
+ 
+<tr>
+<td style=3D"background-color:#f4f6f8; padding:20px 40px; font-size:13px; c=
+olor:#777777; text-align:center;">
+  PayPal,LLC <br>
+  120 Dehaven Drive Yonkers Ny 10703 United States <br>
+  (805)-880-2309 <br>
+  =C2=A9 2026 PayPal,LLC. All rights reserved.
+</td>
+</tr>
+=20
+<tr>
+<td style=3D"background-color:#f4f6f8; padding:20px 40px; font-size:13px; c=
+olor:#777777; text-align:center;">
+<a href=3D"phishinglink.com" >
+<img src=3D"cid:inline-image-0" style=3D"height:100px; width:100px">
+</a>
+</td>
+</tr>
+</table>
+ 
+</td>
+</tr>
+</table>
+ 
+</body>
+</html>
